@@ -1,1 +1,1 @@
-# PHP
+I developed this code to those beginner programmer who found difficulties in creating their inventory system using php/mysql. The feature of this system are, it generates daily inventory report, secure login because i use md5 encryption for login and registration . It also generate reports such as daily, weekly, monthly, and yearly. This system has many features not just the features written above.
